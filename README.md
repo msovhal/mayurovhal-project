@@ -1,4 +1,4 @@
 # mayurovhal-project
 This is my first Git Repository.
 <br>
-Author - Mayur Ovhal
+Author - Mayur Ovhal (project)
